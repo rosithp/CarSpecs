@@ -1,0 +1,35 @@
+ENGINE & TRANSMISSION
+#####################
+Top Speed	182 Kmph
+Acceleration (0-100 kmph)	13.5 Seconds
+Engine Displacement(cc)	1498
+Maximum Power	98.59bhp@3750rpm
+Maximum Torque	205Nm@1750-3250rpm
+Engine Description	1.5-litre 98.59bhp 8V TDCi Diesel Engine
+Turning Radius	5.3 metres
+No. of Cylinders	4
+Drive Type	FWD
+Turbo Charger	Yes
+Super Charger	No
+Valves Per Cylinder	2
+Compression Ratio	16.0:1
+Fuel Supply System	Direct Injection
+Gear box	5 Speed
+Steering Gear Type	Rack & Pinion
+
+CAPACITY
+#########
+Seating Capacity	5
+No of Doors	5
+Length	3999mm
+Width	1765mm
+Height	1708mm
+Ground Clearance	200mm
+Wheel Base	2520mm
+Front Tread	1519mm
+Rear Tread	1524mm
+Fuel Tank Capacity (Liters)	52
+Cargo Volume	346-litres
+Tyre Size	205/50 R17
+Tyre Type	Tubeless,Radial
+Alloy Wheel Size	17 Inch
