@@ -1,0 +1,45 @@
+Dimensions & Weight	
+Length	3995 mm
+Width	1745 mm
+Height	1500 mm
+Wheelbase	2520 mm
+Ground Clearance	170 mm
+Kerb Weight	865 kg
+Capacity	
+Doors	5 Doors
+Seating Capacity	5 Person
+No of Seating Rows	2 Rows
+Bootspace	339 litres
+Fuel Tank Capacity	37 litres
+Engine & Transmission	
+Engine Type	VVT
+Valve/Cylinder (Configuration)	4, DOHC
+Displacement	1197 cc
+Mileage (ARAI)	21.4 kmpl
+Turbocharger/Supercharger	No
+Drivetrain	Front Wheel Drive
+Dual Clutch	No
+Sport Mode	No
+Alternate Fuel	Not Applicable
+Cylinders	4, Inline
+Fuel Type	Petrol
+Max Power (bhp@rpm)	83 bhp @ 6000 RPM
+Max Torque (Nm@rpm)	115 Nm @ 4000 RPM
+Turbocharger Type	No
+No of gears	5 Gears
+Transmission Type	Manual
+Manual Shifting for Automatic	No
+Driving Modes	No
+Engine Start-Stop Function	No
+Suspensions, Brakes & Steering	
+Suspension Front	McPherson Strut
+Suspension Rear	Torsion Beam
+Front Brake Type	Disc
+Rear Brake Type	Drum
+Minimum Turning Radius	4.9 metres
+Steering Type	Power assisted (Electric)
+Wheels & Tyres	
+Wheels	Steel Rims
+Spare Wheel	Steel
+Front Tyres	185 / 65 R15
+Rear Tyres	185 / 65 R15
