@@ -1,0 +1,4 @@
+Make    : Hyundai
+CC      : 1200
+Fuel    : Petrol
+Color   : White
