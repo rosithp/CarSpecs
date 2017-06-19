@@ -1,0 +1,13 @@
+VARIANT:V i VTEC
+
+Mileage:18.7
+Engine Displ:1199 cc
+Transmission :Manual
+Fuel Type :Petrol
+Boot Space :354-litres
+Power Windows :Both
+Airbags :2 (Driver & Co-Driver)
+ABS :YES
+Central Locking :YES
+In Car Entertainment :NA
+Fog Lamps :Front
